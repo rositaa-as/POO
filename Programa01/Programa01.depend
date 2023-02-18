@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1676249556 source:c:\users\avila\onedrive\escritorio\programa01\main.cpp
+	<iostream>
+	"duenio.h"
+	"mascota.h"
+
+1676248779 c:\users\avila\onedrive\escritorio\programa01\include\duenio.h
+	<iostream>
+
+1676252483 c:\users\avila\onedrive\escritorio\programa01\include\mascota.h
+	<iostream>
+
+1676249148 source:c:\users\avila\onedrive\escritorio\programa01\src\duenio.cpp
+	"duenio.h"
+	"mascota.h"
+	<iostream>
+
+1676249169 source:c:\users\avila\onedrive\escritorio\programa01\src\mascota.cpp
+	"mascota.h"
+	<iostream>
+
