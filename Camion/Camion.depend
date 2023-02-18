@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1674857950 source:c:\users\usuario\desktop\yuan\camion\camion.cpp
+	"Camion.h"
+
+1674857738 c:\users\usuario\desktop\yuan\camion\camion.h
+	<iostream>
+
+1676064192 source:d:\yuan\camion\camion.cpp
+	"Camion.h"
+
+1676668288 d:\yuan\camion\camion.h
+	<iostream>
+
+1676668356 source:d:\yuan\camion\main.cpp
+	"Camion.h"
+	"Chofer.h"
+
+1676668338 source:d:\yuan\camion\chofer.cpp
+	"Chofer.h"
+
+1676667922 d:\yuan\camion\chofer.h
+	"Camion.h"
+
+1676669245 source:c:\users\avila\onedrive\escritorio\camion\camion.cpp
+	"Camion.h"
+
+1676670204 c:\users\avila\onedrive\escritorio\camion\camion.h
+	<iostream>
+
+1676669769 source:c:\users\avila\onedrive\escritorio\camion\chofer.cpp
+	"Chofer.h"
+	"Camion.h"
+
+1676670643 c:\users\avila\onedrive\escritorio\camion\chofer.h
+	"Camion.h"
+
+1676669190 source:c:\users\avila\onedrive\escritorio\camion\main.cpp
+	"Camion.h"
+	"Chofer.h"
+	<iostream>
+
